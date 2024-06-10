@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thought Keeper</string>
+
+    <string-array name="mood_array">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Angry</item>
+        <item>Excited</item>
+        <!-- Add more moods as needed -->
+    </string-array>
+</resources>

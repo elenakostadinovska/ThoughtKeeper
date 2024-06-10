@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="12dp"
+    android:layout_marginVertical="8dp"
+    android:backgroundTint="@color/white"
+    android:background="@drawable/rounded_corner">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="thought title"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:layout_marginVertical="4dp"
+        android:id="@+id/thought_title_text_view"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="this is thought content that can be long"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:textSize="17sp"
+        android:layout_marginVertical="4dp"
+        android:id="@+id/thought_content_text_view"/>
+
+    <!-- Horizontal LinearLayout to contain timestamp and mood -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginVertical="4dp"
+        android:gravity="end">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mood: xxx"
+            android:textSize="14sp"
+            android:id="@+id/thought_mood_text_view"
+            android:layout_marginStart="8dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="timestamp"
+            android:textSize="14sp"
+            android:gravity="end"
+            android:id="@+id/thought_timestamp_text_view"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

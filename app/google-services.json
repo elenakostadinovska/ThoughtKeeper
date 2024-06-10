@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499378776797",
+    "project_id": "thought-keeper-7fb2c",
+    "storage_bucket": "thought-keeper-7fb2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499378776797:android:2c70d2a49f333497b9c934",
+        "android_client_info": {
+          "package_name": "com.example.thoughtkeeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBireF0RjcYAk7tn1i3ojVjOFH-o_PqL4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
