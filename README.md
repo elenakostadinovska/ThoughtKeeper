@@ -9,6 +9,8 @@ ThoughtKeeper is an intuitive Android application designed to help you capture a
 5. Edit Thoughts: Update your existing thoughts to refine or change their content.
 6. Delete Thoughts: Remove thoughts that are no longer relevant or needed.
 7. Logout: Securely log out from the app to protect your data.
+8. Orientation: ThoughtKeeper supports both portrait and landscape orientations.
+9. Application icon: ThoughtKeeper is accompanied by its own distinctive icon.
 
 # Usage
 1. Login/Signup: Create a new account or log in to an existing account using Firebase Authentication to access your personal thought space.
