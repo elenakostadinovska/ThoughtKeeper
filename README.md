@@ -26,5 +26,7 @@ ThoughtKeeper is the perfect companion for anyone looking to keep their thoughts
 
 # Contributing
 We welcome contributions to ThoughtKeeper! If you have any ideas, bug reports, or pull requests, feel free to submit them. Let's make ThoughtKeeper better together!
+
+
  ![image](https://github.com/elenakostadinovska/ThoughtKeeper/assets/93331149/c80e2dec-7a2d-4452-b151-d17633c07811)
 
