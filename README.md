@@ -1,5 +1,5 @@
 # ThoughtKeeper
-ThoughtKeeper is an intuitive Android application designed to help you capture and organize your thoughts effortlessly. Whether it's a fleeting idea, a detailed narrative, or a moment of inspiration, ThoughtKeeper provides a seamless way to document your thoughts with titles and associated moods. With its user-friendly interface and powerful features, ThoughtKeeper ensures that your mental notes are always just a tap away.
+ThoughtKeeper is an intuitive Android application designed to help you capture and organize your thoughts effortlessly. Whether it's a fleeting idea, a detailed narrative, or a moment of inspiration, ThoughtKeeper provides a seamless way to document your thoughts with titles and associated moods. With its user-friendly interface and powerful features, ThoughtKeeper ensures that your mental notes are always just a tap away. Check the 'Screenshots from the app' folder in the project to see pictures of all the application activities!
 
 # Features
 1. User Authentication: Secure login and signup using Firebase Authentication to keep your thoughts private and accessible only to you.
